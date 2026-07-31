@@ -7,12 +7,12 @@ Este repositório foi criado para armazenar os exercícios, projetos e avaliaç�
 ## 📚 Módulos do Curso
 
 | Módulo | Carga Horária |
-| :--- | :---: |
-| **01. Lógica, Git & GitHub** | 40h |
-| **02. HTML5 & CSS3** | 60h |
-| **03. JavaScript** | 40h |
-| **04. Vue.js** | 40h |
-| **05. Back-end** | 40h |
+| ----- | ----- |
+| 01. Lógica, Git e GitHub | 40h |
+| 02. HTML5 e CSS3 | 60h |
+| 03. JavaScript | 40h |
+| 04. Vue.js | 40h |
+| 05. Back-end | 40h |
 
 ---
 
