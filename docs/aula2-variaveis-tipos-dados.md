@@ -1,5 +1,3 @@
-Vimos o conteúdo de variáveis e tipos de dados na aula 2. 
-
 O que é variável?
 É um espaço reservado na memória do computador destinado a armazenar uma informação que pode ser alterada durante a execução do programa.
 
